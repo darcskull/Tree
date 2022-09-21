@@ -1,0 +1,10 @@
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\bin\Debug\ВРРН.exe.config
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\bin\Debug\ВРРН.exe
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\bin\Debug\ВРРН.pdb
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\obj\Debug\ВРРН.csproj.AssemblyReference.cache
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\obj\Debug\ВРРН.Form1.resources
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\obj\Debug\ВРРН.Properties.Resources.resources
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\obj\Debug\ВРРН.csproj.GenerateResource.cache
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\obj\Debug\ВРРН.csproj.CoreCompileInputs.cache
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\obj\Debug\ВРРН.exe
+D:\uni\5семестър\вррн\кр\ВРРН\ВРРН\obj\Debug\ВРРН.pdb
